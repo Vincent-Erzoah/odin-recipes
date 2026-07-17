@@ -1,0 +1,22 @@
+body {
+  background-color: #fcfcf9;
+  font-family: sans-serif;
+  color: #333333;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+h1 {
+  color: #a63a50;
+}
+
+h2 {
+  color: #2c5d63;
+  margin-top: 30px;
+}
+
+li {
+  margin-bottom: 8px;
+}
